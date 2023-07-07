@@ -1,0 +1,17 @@
+{
+  "name": "cypress_for_git",
+  "version": "2.0.0",
+  "description": "cypress-mochaframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "akshaya",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.15.0"
+  }
+}
